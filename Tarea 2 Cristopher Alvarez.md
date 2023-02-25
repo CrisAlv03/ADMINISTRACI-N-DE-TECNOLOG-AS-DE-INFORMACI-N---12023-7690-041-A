@@ -1,7 +1,7 @@
-#*¿En qué sentido es Nike una “compañía tecnológica”? Explique su respuesta.*
+# 3.¿En qué sentido es Nike una “compañía tecnológica”? Explique su respuesta.
 
-Nike al ser una empresa que brinda a sus usuarios *productos de alta tecnologia* para facilitar la obtencion de datos al realizar ejercicio ha dado un paso mas alla de ofrecer producto unicamente para deporte, el usuario puede obtener datos detallados de la cantidad de ejercicio realizado, como esta la salud si debe hacer mas ejercicio o no, esto logro establecer que el usuario se sienta comodo con la marca logrando que pueda adquirir mas productos **Nike**.
+Nike al ser una empresa que brinda a sus usuarios productos de alta tecnologia para facilitar la obtencion de datos al realizar ejercicio ha dado un paso mas alla de ofrecer producto unicamente para deporte, el usuario puede obtener datos detallados de la cantidad de ejercicio realizado, como esta la salud si debe hacer mas ejercicio o no, esto logro establecer que el usuario se sienta comodo con la marca logrando que pueda adquirir mas productos Nike.
 
-#*¿Qué rol desempeña la tecnología de la información en cada uno de estos negocios? ¿Cómo les ayuda a refinar sus estrategias de negocios?*
+# ¿Qué rol desempeña la tecnología de la información en cada uno de estos negocios? ¿Cómo les ayuda a refinar sus estrategias de negocios?
 
 En razon de Amazon usa las tegnologias de informacion para poder captar mas la atencion de los usuarios al hacer sus plataformas de mas facil acceso para pedir/ordenar productos, esto le da una ventaja sobre Walmart ya que al ser una tienda de consumo de alimentos en su mayoria las personas se sienten mas comodas al comprar de manera presencial los productos, ahora bien si Walmart logra digitalizar mas su proceso con los diferentes equipos puede hacer frente a Amazon por la cantidad de tiendas repartidas por todo el mundo a lo cual puede acortar bastante el tiempo de envio de paquetes como electrodomesticos, muebles etc, las empresas al estar a la vanguardia de lo que necesitan los clientes esto les da una ventaja aplastante sobre los competidores.
